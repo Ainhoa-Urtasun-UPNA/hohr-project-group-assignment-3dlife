@@ -4,7 +4,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Objective: analyze your industry and decide your primary and support activities
 ***
 * Your company's name: **3Dlife**
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): **339112 Surgical and Medical Instrument Manufacturing
+Description: This U.S. industry comprises establishments primarily engaged in manufacturing medical, surgical, ophthalmic, and veterinary instruments and apparatus (except electrotherapeutic, electromedical and irradiation apparatus). Examples of products made by these establishments are syringes, hypodermic needles, anesthesia apparatus, blood transfusion equipment, catheters, surgical clamps, and medical thermometers.
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
