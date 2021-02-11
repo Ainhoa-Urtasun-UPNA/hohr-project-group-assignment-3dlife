@@ -5,8 +5,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Your company's name: **3Dlife**
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
-* Item 1 **339112 Surgical and Medical Instrument Manufacturing**
-* Item 1a Description: This U.S. industry comprises establishments primarily engaged in manufacturing medical, surgical, ophthalmic, and veterinary instruments and apparatus (except electrotherapeutic, electromedical and irradiation apparatus). Examples of products made by these establishments are syringes, hypodermic needles, anesthesia apparatus, blood transfusion equipment, catheters, surgical clamps, and medical thermometers.
+* **339112 Surgical and Medical Instrument Manufacturing**
+* Description: This U.S. industry comprises establishments primarily engaged in manufacturing medical, surgical, ophthalmic, and veterinary instruments and apparatus (except electrotherapeutic, electromedical and irradiation apparatus). Examples of products made by these establishments are syringes, hypodermic needles, anesthesia apparatus, blood transfusion equipment, catheters, surgical clamps, and medical thermometers.
 
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 **3DLife Bioprinting, Inc.**
