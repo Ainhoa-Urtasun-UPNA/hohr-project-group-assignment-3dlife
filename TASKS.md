@@ -19,7 +19,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 
 * 339112	- Surgical and Medical Instrument Manufacturing =	5,737
 * List of your company's primary activities divided into engineering activities and operations activities:
-***
+* Our primary activities is related directly to the creation of the multilayered objects such as tissues and organs from soft biomaterials like living cells and biomimetic synthetic polymers, using the latest technological advancement in the field. 
 * List of your company's support activities:
 ***
 
