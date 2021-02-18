@@ -26,7 +26,7 @@ Operational activities performed by 3Dlife's operators consist on obtaining and 
 
 * List of your company's support activities:
 ***
-Another key support activity at 3Dlife is performed by its maangers. They decide on the course of action that the company will take and guide all the company members through it. Managers at 3Dlife organize and coordinate how activities are going to be carried out. Managers also make sure the value chain runs properly and efficiently. Manager's at 3Dlife want the company to be at the top position in bioprinting and using the latest technologies available. For achieving this, they thake a close look to their main competitors.
+Another key support activity at 3Dlife is performed by its mangers. They decide on the course of action that the company will take and guide all the company members through it. Managers at 3Dlife organize and coordinate how activities are going to be carried out. Managers also make sure the value chain runs properly and efficiently. Manager's at 3Dlife want the company to be at the top position in bioprinting and using the latest technologies available. For achieving this, they thake a close look to their main competitors.
 Lastly, managers at 3Dlife should be leaders. They influence all 3Dlife members to work together with the interest of the organization. 
 
 ## Task 2
