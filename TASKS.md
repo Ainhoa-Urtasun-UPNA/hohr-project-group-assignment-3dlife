@@ -60,7 +60,7 @@ In order to finance the big investment required, the company takes advantage of 
  3.Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
  4.Coordination — Adjusting actions in relation to others' actions. Importance: 75
  5.Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
-5 technology skills:
+* 5 technology skills:
  1.Analytical or scientific software — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
  2.Business intelligence and data analysis software — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
  3.Calendar and scheduling software — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
