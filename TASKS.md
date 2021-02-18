@@ -93,15 +93,36 @@ In order to finance the big investment required, the company takes advantage of 
 * Top industry: (2019)
 * Health Care and Social Assistance
 ### Engineers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* ONET-SOC code and title: 17-2031.00 - Bioengineers and Biomedical Engineers
+* 5 most important tasks they carry out (provide the importance score, in Details): 
+* 1. Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals. Importance:	79
+* 2. Adapt or design computer hardware or software for medical science uses. Importance: 73
+* 3. Evaluate the safety, efficiency, and effectiveness of biomedical equipment. Importance: 72
+* 4. Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.Importance: 71
+* 5. Research new materials to be used for products, such as implanted artificial organs.Importance: 68
+* Is this job routine? Your judgment (0-10): 3
+* Is this job cognitive? Your judgment (0-10): 10
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
+* 1. Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance: 81
+* 2. Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Importance: 78
+* 3. Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. Importance: 78	
+* 4. Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance score: 78
+* 5. Reading Comprehension — Understanding written sentences and paragraphs in work related documents.Importance: 78
+* 5 technology skills: 
+* 1. Analytical or scientific software — ANSYS; SAS ; Stratasys FDM MedModeler; The MathWorks MATLAB
+* 2. Computer aided design CAD software — Autodesk AutoCAD ; Dassault Systemes SOLIDWORKS; PTC Creo Elements/Pro; Zuken
+* 3. Data base user interface and query software — Failure rate database software; Microsoft Access; Structured query language SQL; Thomson Reuters EndNote.
+* 4. Development environment software — Hardware description language HDL; Integrated development environment IDE software ; Microsoft Visual Basic; National Instruments LabVIEW 
+* 5. Enterprise resource planning ERP software — Ab Initio; ERP software; SAP software
 * Education:
+* 53% of respondents: Bachelor's degree
+* 30% of respondents:	Master's degree
+* 7% of respondents:	Doctoral degree
 * Wages:
-* Top industry:
+* Median wages (2019)	$43.95 hourly, $91,410 annual
+* Top industry: (2019)	
+* Manufacturing (43% employed in this sector)
+* Professional, Scientific, and Technical Services (19%)
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
