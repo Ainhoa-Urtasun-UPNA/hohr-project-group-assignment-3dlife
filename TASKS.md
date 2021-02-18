@@ -18,35 +18,46 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 
 * 339112	- Surgical and Medical Instrument Manufacturing =	5,737
-* List of your company's primary activities divided into engineering activities and operational activities:
+* List of your company's primary activities divided into engineering activities and operations activities:
 * Our primary activities are related directly to the creation of the multilayered objects such as tissues and organs from soft biomaterials like living cells and biomimetic synthetic polymers, using the latest technological advancement in the field. Primary activities are divided into engineering activites and operations activities. 
-                 
-3Dlife's research engineers mainly work theoretically and analytically, they carry out experiments before the implementation, for instance, bioprinting a heart the size of a cherry, with cells, blood vessels, ventricles and chambers, which is developed from the patient's own fat tissue.  They will carry out studies, and prototypes, for example, using only a human cornea they can print 50 artificial ones, thanks to 3D technology. This is a big advancement in ophthalmology.                                 One important activity of the engineers is using computer-aided design (CAD) to design and map the organs which are done layer by layer.
+3Dlife's research engineers mainly work theoretically and analytically, they carry out experiments before the implementation, for instance, bioprinting a heart the size of a cherry, with cells, blood vessels, ventricles and chambers, which is developed from the patient's own fat tissue.  They will carry out studies, and prototypes, for example, using only a human cornea they can print 50 artificial ones, thanks to 3D technology. This is a big advancement in ophthalmology. One important activity of the engineers is using computer-aided design (CAD) to design and map the organs which are done layer by layer.
 Operational activities performed by 3Dlife's operators consist on obtaining and handling materials such as bioprinting skin, whose market is growing fast. In order to print an organ, cells of the specific organ are needed, these cells are called bioink. Operators make sure that this material is on the machine. Operators also set up the tools and machines needed for the printer, such as a print head mount, elevator, platform, sensors... 3Dlife operators carry out the production of the organs, and lastly they perform a very strict quality control to assure the highest performance of the organs created. 
 
 * List of your company's support activities:
 ***
-Support activities are responsible for planning and oversight of primary activities. These support activities include general management, human resource management, and finance.
-
-A key support activity at 3Dlife is performed by its maangers. They decide on the course of action that the company will take and guide all the company members through it. Managers at 3Dlife organize and coordinate how activities are going to be carried out. Managers also make sure the value chain runs properly and efficiently. Manager's at 3Dlife want the company to be at the top position in bioprinting and using the latest technologies available. For achieving this, they thake a close look to their main competitors. Lastly, managers at 3Dlife should be leaders. They influence all 3Dlife members to work together with the interest of the organization. 
-
-Human resource for 3DLife needs to find qualified workers, as well as hard working, customer centric and creative. Moreover, it is very important for the Human Resource management to provide periodic additional training to its workers, as they are in a very innovative industry which is constantly changing.
-
-In order to finance the big investment required, the company takes advantage of funds provided by investors in the project and subsidies by the government for Research and Development activities. However, 3D life also leases 3D printers from other companies to reduce costs
 
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-9111.00 - Medical and Health Services Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+1.Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
+2. Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel. Importance: 84
+3. Direct or conduct recruitment, hiring, and training of personnel. Importance:79
+4. Develop and implement organizational policies and procedures for the facility or medical unit. Importance: 79
+5. Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting. Importance: 78
+* Is this job routine? Your judgment (0-10): 7
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
+ Speaking — Talking to others to convey information effectively. Importance: 78
+ Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
+ Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
+Coordination — Adjusting actions in relation to others' actions. Importance: 75
+Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
 * 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+Analytical or scientific software — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
+Business intelligence and data analysis software — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
+Calendar and scheduling software — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
+Categorization or classification software — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro (
+Data base user interface and query software — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
+* Education:  
+65 % of respondents Bachelor's degree
+19 % of respondents Associate's degree
+12 % of respondents Master's degree
+* Wages: Median wages (2019)	$48.55 hourly, $100,980 annual
+* Top industry: (2019)
+* Health Care and Social Assistance
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
