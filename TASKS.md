@@ -60,6 +60,7 @@ In order to finance the big investment required, the company takes advantage of 
 * Is this job routine? Your judgment (0-10): 7 -> We consider it is a routine job because processing data, supervising, recruiting, hiring, producing reports, accounting and similar operations are
 * Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
+
  1.**Speaking** — Talking to others to convey information effectively. Importance: 78
  
  2.**Critical Thinking** — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
@@ -71,6 +72,7 @@ In order to finance the big investment required, the company takes advantage of 
 5.**Judgment and Decision Making** — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
 
 * 5 technology skills:
+
  1.**Analytical or scientific software** — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
  
  2.**Business intelligence and data analysis software** — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
@@ -81,6 +83,7 @@ In order to finance the big investment required, the company takes advantage of 
 
 5.**Data base user interface and query software** — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
 * Education:  
+*
  65 % of respondents Bachelor's degree
  
  19 % of respondents Associate's degree
