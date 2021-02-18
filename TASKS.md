@@ -61,21 +61,21 @@ In order to finance the big investment required, the company takes advantage of 
 * Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
- 1.**Speaking** — Talking to others to convey information effectively. Importance: 78
+ 1. **Speaking** — Talking to others to convey information effectively. Importance: 78
  
- 2.**Critical Thinking** — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
+ 2. **Critical Thinking** — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
 
-3.**Active Listening** — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
+3. **Active Listening** — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
 
-4.**Coordination** — Adjusting actions in relation to others' actions. Importance: 75
+4. **Coordination** — Adjusting actions in relation to others' actions. Importance: 75
 
-5.**Judgment and Decision Making** — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
+5. **Judgment and Decision Making** — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
 
 * 5 technology skills:
 
- 1.**Analytical or scientific software** — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
+1.**Analytical or scientific software** — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
  
- 2.**Business intelligence and data analysis software** — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
+2.**Business intelligence and data analysis software** — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
 
 3.**Calendar and scheduling software** — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
 
@@ -83,20 +83,23 @@ In order to finance the big investment required, the company takes advantage of 
 
 5.**Data base user interface and query software** — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
 * Education:  
-*
+
  65 % of respondents Bachelor's degree
  
  19 % of respondents Associate's degree
  
  12 % of respondents Master's degree
+ 
 * Wages: Median wages (2019)	$48.55 hourly, $100,980 annual
 * Top industry: (2019)
 * Health Care and Social Assistance
+
+
 ### Engineers
 * ONET-SOC code and title: 17-2031.00 - Bioengineers and Biomedical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details): 
 
- 1. Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals. Importance:	79
+1. Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals. Importance:	79
 
 2. Adapt or design computer hardware or software for medical science uses. Importance: 73
 
@@ -114,13 +117,13 @@ In order to finance the big investment required, the company takes advantage of 
 
 **1. Critical Thinking** — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance: 81
 
-** 2. Active Listening** — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Importance: 78
+**2. Active Listening** — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Importance: 78
 
-** 3. Complex Problem Solving** — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. Importance: 78	
+**3. Complex Problem Solving** — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. Importance: 78	
 
-** 4. Judgment and Decision Making** — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance score: 78
+**4. Judgment and Decision Making** — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance score: 78
 
-** 5. Reading Comprehension** — Understanding written sentences and paragraphs in work related documents.Importance: 78
+**5. Reading Comprehension** — Understanding written sentences and paragraphs in work related documents.Importance: 78
 
 * 5 technology skills: 
 
@@ -135,7 +138,7 @@ In order to finance the big investment required, the company takes advantage of 
 **5. Enterprise resource planning ERP software** — Ab Initio; ERP software; SAP software
 
 * Education:
-* 
+
 * 53% of respondents: Bachelor's degree
 * 30% of respondents:	Master's degree
 * 7% of respondents:	Doctoral degree
@@ -151,28 +154,45 @@ In order to finance the big investment required, the company takes advantage of 
 ### Operators
 * ONET-SOC code and title: 49-9062.00 - Medical Equipment Repairers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* 1. Inspect and test malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments. Importance:85
-* 2. Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.Importance: 84
-* 3. Keep records of maintenance, repair, and required updates of equipment. Importance: 84
-* 4. Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment. Importance: 84
-* 5. Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.Importance: 83
+
+ 1. Inspect and test malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments. Importance:85
+
+2. Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.Importance: 84
+
+3. Keep records of maintenance, repair, and required updates of equipment. Importance: 84
+
+4. Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment. Importance: 84
+
+5. Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.Importance: 83
+
 * Is this job routine? Your judgment (0-10): 6
 * Is this job cognitive? Your judgment (0-10): 8
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 1. Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. Importance: 75   	
-* 2. Repairing — Repairing machines or systems using the needed tools.Importance:75   	
-* 3.Troubleshooting — Determining causes of operating errors and deciding what to do about it.Importance:75   	
-* 4.Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. Importance: 60
-* 5. Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. Importance: 60
-* 5 technology skills:
-* 1. Customer relationship management CRM software — SalesforceSee
-* 2 .Electronic mail software — Microsoft Outlook
-* 3. Facilities management software — Computerized maintenance management system CMMSSee 
-* 4.Internet browser software — Web browser software
-* 5.Medical software — Medical equipment diagnostic software
-* Education:
+
+5 most important skills they require to possess (provide the importance score, in Details):
+
+**1. Equipment Maintenance** — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. Importance: 75   	
+
+**2. Repairing** — Repairing machines or systems using the needed tools.Importance:75   	
+
+**3.Troubleshooting** — Determining causes of operating errors and deciding what to do about it.Importance:75   
+
+**4.Operation Monitoring** — Watching gauges, dials, or other indicators to make sure a machine is working properly. Importance: 60
+
+**5. Quality Control Analysis** — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. Importance: 60
+
+ **5 technology skills**:
+
+1. Customer relationship management CRM software — SalesforceSee
+2 .Electronic mail software — Microsoft Outlook
+3. Facilities management software — Computerized maintenance management system CMMSSee 
+4.Internet browser software — Web browser software
+5.Medical software — Medical equipment diagnostic software
+
+**Education**:
 * High school diploma or equivalent Help, Associate's degree, Post-secondary certificate
+
 * Wages:$23.69 hourly, $49,280 annual
+
 * Top industry:
 * Wholesale Trade (28% employed in this sector)
 * Health Care and Social Assistance (23%)
