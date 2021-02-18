@@ -6,6 +6,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: **3Dlife**
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
 * **339112 Surgical and Medical Instrument Manufacturing**
+
 Description: This U.S. industry comprises establishments primarily engaged in manufacturing medical, surgical, ophthalmic, and veterinary instruments and apparatus (except electrotherapeutic, electromedical and irradiation apparatus). Examples of products made by these establishments are syringes, hypodermic needles, anesthesia apparatus, blood transfusion equipment, catheters, surgical clamps, and medical thermometers.
 
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
@@ -13,7 +14,9 @@ Description: This U.S. industry comprises establishments primarily engaged in ma
  **Top 3 businesses:**
  
 Baxter International Inc -> Total employees: 47,000
+
 Fresenius Medical Care North -> Total employees: 18,500
+
 Medline Industries Inc -> Total employees: 12,000
 
 Total employees of the top 3 businesses = 77,500
