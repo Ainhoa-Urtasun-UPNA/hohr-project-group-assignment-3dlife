@@ -47,6 +47,7 @@ In order to finance the big investment required, the company takes advantage of 
 ### Managers
 * ONET-SOC code and title: **1-9111.00 - Medical and Health Services Managers**
 * 5 most important tasks they carry out (provide the importance score, in Details):
+
 1.Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
 
 2. Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel. Importance: 84
