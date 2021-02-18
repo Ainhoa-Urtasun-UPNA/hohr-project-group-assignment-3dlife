@@ -124,15 +124,34 @@ In order to finance the big investment required, the company takes advantage of 
 * Manufacturing (43% employed in this sector)
 * Professional, Scientific, and Technical Services (19%)
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 49-9062.00 - Medical Equipment Repairers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* 1. Inspect and test malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments. Importance:85
+* 2. Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.Importance: 84
+* 3. Keep records of maintenance, repair, and required updates of equipment. Importance: 84
+* 4. Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment. Importance: 84
+* 5. Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.Importance: 83
+* Is this job routine? Your judgment (0-10): 6
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
+* 1. Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. Importance: 75   	
+* 2. Repairing — Repairing machines or systems using the needed tools.Importance:75   	
+* 3.Troubleshooting — Determining causes of operating errors and deciding what to do about it.Importance:75   	
+* 4.Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. Importance: 60
+* 5. Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. Importance: 60
 * 5 technology skills:
+* 1. Customer relationship management CRM software — SalesforceSee
+* 2 .Electronic mail software — Microsoft Outlook
+* 3. Facilities management software — Computerized maintenance management system CMMSSee 
+* 4.Internet browser software — Web browser software
+* 5.Medical software — Medical equipment diagnostic software
 * Education:
-* Wages:
+* High school diploma or equivalent Help, Associate's degree, Post-secondary certificate
+* Wages:$23.69 hourly, $49,280 annual
 * Top industry:
+* Wholesale Trade (28% employed in this sector)
+* Health Care and Social Assistance (23%)
+* Other Services (Except Public Administration) (16%)
 ***
 
 ## Task 3
