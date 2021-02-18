@@ -18,9 +18,10 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 
 * 339112	- Surgical and Medical Instrument Manufacturing =	5,737
-* List of your company's primary activities divided into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operational activities:
 * Our primary activities are related directly to the creation of the multilayered objects such as tissues and organs from soft biomaterials like living cells and biomimetic synthetic polymers, using the latest technological advancement in the field. Primary activities are divided into engineering activites and operations activities. 
-3Dlife's research engineers mainly work theoretically and analytically, they carry out experiments before the implementation, for instance, bioprinting a heart the size of a cherry, with cells, blood vessels, ventricles and chambers, which is developed from the patient's own fat tissue.  They will carry out studies, and prototypes, for example, using only a human cornea they can print 50 artificial ones, thanks to 3D technology. This is a big advancement in ophthalmology. One important activity of the engineers is using computer-aided design (CAD) to design and map the organs which are done layer by layer.
+                 
+3Dlife's research engineers mainly work theoretically and analytically, they carry out experiments before the implementation, for instance, bioprinting a heart the size of a cherry, with cells, blood vessels, ventricles and chambers, which is developed from the patient's own fat tissue.  They will carry out studies, and prototypes, for example, using only a human cornea they can print 50 artificial ones, thanks to 3D technology. This is a big advancement in ophthalmology.                                 One important activity of the engineers is using computer-aided design (CAD) to design and map the organs which are done layer by layer.
 Operational activities performed by 3Dlife's operators consist on obtaining and handling materials such as bioprinting skin, whose market is growing fast. In order to print an organ, cells of the specific organ are needed, these cells are called bioink. Operators make sure that this material is on the machine. Operators also set up the tools and machines needed for the printer, such as a print head mount, elevator, platform, sensors... 3Dlife operators carry out the production of the organs, and lastly they perform a very strict quality control to assure the highest performance of the organs created. 
 
 * List of your company's support activities:
@@ -30,44 +31,46 @@ Operational activities performed by 3Dlife's operators consist on obtaining and 
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title: 11-9111.00 - Medical and Health Services Managers
-* 5 most important tasks they carry out (provide the importance score, in Details):
-1.Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
-2. Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel. Importance: 84
-3. Direct or conduct recruitment, hiring, and training of personnel. Importance:79
-4. Develop and implement organizational policies and procedures for the facility or medical unit. Importance: 79
-5. Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting. Importance: 78
-* Is this job routine? Your judgment (0-10): 7
-* Is this job cognitive? Your judgment (0-10): 8
-* 5 most important skills they require to possess (provide the importance score, in Details):
- Speaking — Talking to others to convey information effectively. Importance: 78
- Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
- Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
-Coordination — Adjusting actions in relation to others' actions. Importance: 75
-Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
-* 5 technology skills:
-Analytical or scientific software — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
-Business intelligence and data analysis software — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
-Calendar and scheduling software — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
-Categorization or classification software — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro (
-Data base user interface and query software — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
-* Education:  
-65 % of respondents Bachelor's degree
-19 % of respondents Associate's degree
-12 % of respondents Master's degree
-* Wages: Median wages (2019)	$48.55 hourly, $100,980 annual
-* Top industry: (2019)
-* Health Care and Social Assistance
-### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
+* 5 technology skills:
 * Education:
 * Wages:
 * Top industry:
+### Engineers
+* ONET-SOC code and title: 17-2031.00 - Bioengineers and Biomedical Engineers
+* 5 most important tasks they carry out (provide the importance score, in Details): 
+1. Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.See more occupations related to this task. Importance score: 79
+2. Adapt or design computer hardware or software for medical science uses.See more occupations related to this task. Importance score: 73
+3. Evaluate the safety, efficiency, and effectiveness of biomedical equipment.See more occupations related to this task. Importance score: 72
+4. Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.See more occupations related to this task. Importance score: 71
+5. Research new materials to be used for products, such as implanted artificial organs. Importance score: 68
+* Is this job routine? Your judgment (0-10): 3
+* Is this job cognitive? Your judgment (0-10): 10
+* 5 most important skills they require to possess (provide the importance score, in Details):
+1. Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill. Importance score: 81
+2. Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill. Importance score: 78	
+3. Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill. Importance score: 78  	
+4. Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.See more occupations related to this skill.
+Importance score: 78   	
+5. Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Importance score: 78
+* 5 technology skills: 
+1. Analytical or scientific software — ANSYS; SAS; Stratasys FDM MedModeler; The MathWorks MATLAB.
+2. Computer aided design CAD software — Autodesk AutoCAD ; Dassault Systemes SOLIDWORKS; PTC Creo Elements/Pro; Zuken
+3. Data base user interface and query software — Failure rate database software; Microsoft Access; Structured query language SQL; Thomson Reuters EndNote
+4. Development environment software — Hardware description language HDL; Integrated development environment IDE software; Microsoft Visual Basic; National Instruments LabVIEW 
+5. Enterprise resource planning ERP software — Ab Initio; ERP software; SAP software
+* Education: 
+53% of respondents:	Bachelor's degree
+30% of respondents: Master's degree
+7% of respondents: Doctoral degree
+* Wages: Median wages (2019)	$43.95 hourly, $91,410 annual
+* Top industry: (2019)
+Manufacturing (43% employed in this sector)
+Professional, Scientific, and Technical Services (19%)
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
