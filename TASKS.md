@@ -39,7 +39,7 @@ A key support activity at 3Dlife is performed by its maangers. They decide on th
 
 Human resource for 3DLife needs to find qualified workers, as well as hard working, customer centric and creative. Moreover, it is very important for the Human Resource management to provide periodic additional training to its workers, as they are in a very innovative industry which is constantly changing.
 
-In order to finance the big investment required, the company takes advantage of funds provided by investors in the project and subsidies by the government for Research and Development activities. However, 3D life also leases 3D printers from other companies to reduce costs
+In order to finance the big investment required, the company takes advantage of funds provided by investors in the project and subsidies by the government for Research and Development activities. However, 3D life also leases 3D printers from other companies to reduce costs.
 
 ## Task 2
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
