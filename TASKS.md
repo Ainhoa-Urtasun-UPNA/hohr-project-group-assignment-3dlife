@@ -109,9 +109,9 @@ In order to finance the big investment required, the company takes advantage of 
 
 5. Research new materials to be used for products, such as implanted artificial organs.Importance: 68
 
-*  Is this job routine? Your judgment (0-10): 3
+*  Is this job routine? Your judgment (0-10): 3 - It is not specially a routine job. Bioengineers work on designing and analysing biological systems. Each person has different needs, therefore, they need different techniques and practices to solve each of the requirements. 
 
-* Is this job cognitive? Your judgment (0-10): 10
+* Is this job cognitive? Your judgment (0-10): 10 - They need to have biological, technological, physics... knowledge. Many fields have to be controlled by the bioegnineers, in order to adapt to each individuals needs. 
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
