@@ -45,15 +45,34 @@ In order to finance the big investment required, the company takes advantage of 
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-9111.00 - Medical and Health Services Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+1.Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
+2. Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel. Importance: 84
+3. Direct or conduct recruitment, hiring, and training of personnel. Importance:79
+4. Develop and implement organizational policies and procedures for the facility or medical unit. Importance: 79
+5. Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting. Importance: 78
+* Is this job routine? Your judgment (0-10): 7
+* Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+ 1.Speaking — Talking to others to convey information effectively. Importance: 78
+ 2.Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
+ 3.Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
+ 4.Coordination — Adjusting actions in relation to others' actions. Importance: 75
+ 5.Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
+5 technology skills:
+ 1.Analytical or scientific software — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
+ 2.Business intelligence and data analysis software — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
+ 3.Calendar and scheduling software — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
+ 4.Categorization or classification software — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro (
+ 5.Data base user interface and query software — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
+* Education:  
+ 65 % of respondents Bachelor's degree
+ 19 % of respondents Associate's degree
+ 12 % of respondents Master's degree
+* Wages: Median wages (2019)	$48.55 hourly, $100,980 annual
+* Top industry: (2019)
+* Health Care and Social Assistance
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
