@@ -156,8 +156,8 @@ In order to finance the big investment required, the company takes advantage of 
 * 3. Keep records of maintenance, repair, and required updates of equipment. Importance: 84
 * 4. Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment. Importance: 84
 * 5. Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.Importance: 83
-* Is this job routine? Your judgment (0-10): 6
-* Is this job cognitive? Your judgment (0-10): 8
+* Is this job routine? Your judgment (0-10): 6 We conclude this because there is always the necessity to repair teh same machines that the company has, but they can have different erros more or less common. 
+* Is this job cognitive? Your judgment (0-10): 8 We thought that operators need to know how to repair the 3D printers as well as how to know how they work which is a complex job as the printers are quite complex machines. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 1. Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. Importance: 75   	
 * 2. Repairing — Repairing machines or systems using the needed tools.Importance:75   	
