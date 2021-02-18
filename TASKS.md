@@ -48,7 +48,7 @@ In order to finance the big investment required, the company takes advantage of 
 * ONET-SOC code and title: **1-9111.00 - Medical and Health Services Managers**
 * 5 most important tasks they carry out (provide the importance score, in Details):
 
-1.Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
+1. Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
 
 2. Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel. Importance: 84
 
@@ -155,7 +155,7 @@ In order to finance the big investment required, the company takes advantage of 
 * ONET-SOC code and title: 49-9062.00 - Medical Equipment Repairers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 
- 1. Inspect and test malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments. Importance:85
+1. Inspect and test malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments. Importance:85
 
 2. Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.Importance: 84
 
@@ -165,8 +165,11 @@ In order to finance the big investment required, the company takes advantage of 
 
 5. Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.Importance: 83
 
-* Is this job routine? Your judgment (0-10): 6
-* Is this job cognitive? Your judgment (0-10): 8
+* Is this job routine? Your judgment (0-10): 6 We conclude this because there is always the necessity to repair the same machines that the company has, but they can have different erros more or less common. 
+
+* Is this job cognitive? Your judgment (0-10): 8 We thought that operators need to know how to repair the 3D printers as well as how to know how they work which is a complex job as the printers are quite complex machines. 
+
+* 5 most important skills they require to possess 
 
 5 most important skills they require to possess (provide the importance score, in Details):
 
