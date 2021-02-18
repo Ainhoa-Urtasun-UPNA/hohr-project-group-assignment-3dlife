@@ -52,7 +52,7 @@ In order to finance the big investment required, the company takes advantage of 
 3. Direct or conduct recruitment, hiring, and training of personnel. Importance:79
 4. Develop and implement organizational policies and procedures for the facility or medical unit. Importance: 79
 5. Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting. Importance: 78
-* Is this job routine? Your judgment (0-10): 7
+* Is this job routine? Your judgment (0-10): 7 -> We consider it is a routine job because processing data, supervising, recruiting, hiring, producing reports, accounting and similar operations are
 * Is this job cognitive? Your judgment (0-10): 8
 * 5 most important skills they require to possess (provide the importance score, in Details):
  1.Speaking — Talking to others to convey information effectively. Importance: 78
