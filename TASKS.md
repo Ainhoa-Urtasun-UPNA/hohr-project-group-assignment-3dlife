@@ -57,8 +57,8 @@ In order to finance the big investment required, the company takes advantage of 
 4. Develop and implement organizational policies and procedures for the facility or medical unit. Importance: 79
 
 5. Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting. Importance: 78
-* Is this job routine? Your judgment (0-10): 7 -> We consider it is a routine job because processing data, supervising, recruiting, hiring, producing reports, accounting and similar operations are
-* Is this job cognitive? Your judgment (0-10): 8
+* Is this job routine? Your judgment (0-10): 7 -> We consider it is a routine job because processing data, supervising, recruiting, hiring, producing reports, accounting and similar operations can be accomplished by following explicit rules.
+* Is this job cognitive? Your judgment (0-10): 8 -> In our opinion, tasks performed by managers are quite cognitive because  they include thinking, remembering, solving priblems, etc. In other words, higer-level funcitons of the brain.
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
  1.**Speaking** — Talking to others to convey information effectively. Importance: 78
