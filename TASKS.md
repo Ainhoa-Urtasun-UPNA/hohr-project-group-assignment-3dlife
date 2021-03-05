@@ -92,7 +92,8 @@ In order to finance the big investment required, the company takes advantage of 
  
 * Wages: Median wages (2019)	$48.55 hourly, $100,980 annual
 * Top industry: (2019)
-* Health Care and Social Assistance
+
+ Health Care and Social Assistance
 
 
 ### Engineers
@@ -139,16 +140,14 @@ In order to finance the big investment required, the company takes advantage of 
 
 * Education:
 
-53% of respondents: Bachelor's degree
-30% of respondents:	Master's degree
-7% of respondents:	Doctoral degree
+ 53% of respondents: Bachelor's degree
+ 30% of respondents:	Master's degree
+ 7% of respondents:	Doctoral degree
  
-* Wages:
-
-Median wages (2019)	$43.95 hourly, $91,410 annual
+* Wages: Median wages (2019)	$43.95 hourly, $91,410 annual
 * Top industry: (2019)	
-Manufacturing (43% employed in this sector)
-Professional, Scientific, and Technical Services (19%)
+ Manufacturing (43% employed in this sector)
+ Professional, Scientific, and Technical Services (19%)
 
 
 ### Operators
@@ -197,9 +196,9 @@ Professional, Scientific, and Technical Services (19%)
 * Wages:$23.69 hourly, $49,280 annual
 
 * Top industry:
-* Wholesale Trade (28% employed in this sector)
-* Health Care and Social Assistance (23%)
-* Other Services (Except Public Administration) (16%)
+ Wholesale Trade (28% employed in this sector)
+ Health Care and Social Assistance (23%)
+ Other Services (Except Public Administration) (16%)
 ***
 
 ## Task 3
