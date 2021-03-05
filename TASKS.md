@@ -32,13 +32,14 @@ Our primary activities are related directly to the creation of the multilayered 
 
 Operational activities performed by 3Dlife's operators consist on obtaining and handling materials such as bioprinting skin, whose market is growing fast. In order to print an organ, cells of the specific organ are needed, these cells are called bioink. Operators make sure that this material is on the machine. Operators also set up the tools and machines needed for the printer, such as a print head mount, elevator, platform, sensors... 3Dlife operators carry out the production of the organs, and lastly they perform a very strict quality control to assure the highest performance of the organs created. 
 
-** List of your company's support activities:**
+
+List of your company's support activities:
 ***
 Support activities are responsible for planning and oversight of primary activities. These support activities include general management, human resource management, and finance.
 
-A key support activity at 3Dlife is performed by its maangers. They decide on the course of action that the company will take and guide all the company members through it. Managers at 3Dlife organize and coordinate how activities are going to be carried out. Managers also make sure the value chain runs properly and efficiently. Manager's at 3Dlife want the company to be at the top position in bioprinting and using the latest technologies available. For achieving this, they thake a close look to their main competitors. Lastly, managers at 3Dlife should be leaders. They influence all 3Dlife members to work together with the interest of the organization. 
+A key support activity at 3Dlife is performed by its maangers. They decide on the course of action that the company will take and guide all the company members through it. Managers at 3Dlife organize and coordinate how activities are going to be carried out. Managers also make sure the value chain runs properly and efficiently. Managers at 3Dlife want the company to be at the top position in bioprinting and using the latest technologies available. For achieving this, they thake a close look to their main competitors. Lastly, managers at 3Dlife should be leaders. They influence all 3Dlife members to work together with the interest of the organization. 
 
-Human resource for 3DLife needs to find qualified workers, as well as hard working, customer centric and creative. Moreover, it is very important for the Human Resource management to provide periodic additional training to its workers, as they are in a very innovative industry which is constantly changing.
+Human resources department for 3DLife needs to find qualified workers, as well as hard working, customer centric and creative. Moreover, it is very important for the Human Resources management to provide periodic additional training to its workers, as they are in a very innovative industry which is constantly changing.
 
 In order to finance the big investment required, the company takes advantage of funds provided by investors in the project and subsidies by the government for Research and Development activities. However, 3D life also leases 3D printers from other companies to reduce costs.
 
