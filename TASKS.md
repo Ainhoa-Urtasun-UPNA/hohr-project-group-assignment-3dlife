@@ -80,7 +80,7 @@ In order to finance the big investment required, the company takes advantage of 
 
 3.**Calendar and scheduling software** — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
 
-4.**Categorization or classification software** — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro (
+4.**Categorization or classification software** — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro
 
 5.**Data base user interface and query software** — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
 * Education:  
@@ -92,9 +92,7 @@ In order to finance the big investment required, the company takes advantage of 
  12 % of respondents Master's degree
  
 * Wages: Median wages (2019)	$48.55 hourly, $100,980 annual
-* Top industry: (2019)
-
- Health Care and Social Assistance
+* Top industry: (2019) Health Care and Social Assistance
 
 
 ### Engineers
@@ -142,12 +140,16 @@ In order to finance the big investment required, the company takes advantage of 
 * Education:
 
  53% of respondents: Bachelor's degree
+ 
  30% of respondents:	Master's degree
+ 
  7% of respondents:	Doctoral degree
  
 * Wages: Median wages (2019)	$43.95 hourly, $91,410 annual
 * Top industry: (2019)	
+
  Manufacturing (43% employed in this sector)
+ 
  Professional, Scientific, and Technical Services (19%)
 
 
@@ -169,9 +171,7 @@ In order to finance the big investment required, the company takes advantage of 
 
 * Is this job cognitive? Your judgment (0-10): 8 We thought that operators need to know how to repair the 3D printers as well as how to know how they work which is a complex job as the printers are quite complex machines. 
 
-* 5 most important skills they require to possess 
-
-5 most important skills they require to possess (provide the importance score, in Details):
+* 5 most important skills they require to possess:
 
 **1. Equipment Maintenance** — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed. Importance: 75   	
 
