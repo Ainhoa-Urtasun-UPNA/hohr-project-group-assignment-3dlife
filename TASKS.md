@@ -139,16 +139,16 @@ In order to finance the big investment required, the company takes advantage of 
 
 * Education:
 
-* 53% of respondents: Bachelor's degree
-* 30% of respondents:	Master's degree
-* 7% of respondents:	Doctoral degree
+53% of respondents: Bachelor's degree
+30% of respondents:	Master's degree
+7% of respondents:	Doctoral degree
  
 * Wages:
 
-* Median wages (2019)	$43.95 hourly, $91,410 annual
+Median wages (2019)	$43.95 hourly, $91,410 annual
 * Top industry: (2019)	
-* Manufacturing (43% employed in this sector)
-* Professional, Scientific, and Technical Services (19%)
+Manufacturing (43% employed in this sector)
+Professional, Scientific, and Technical Services (19%)
 
 
 ### Operators
