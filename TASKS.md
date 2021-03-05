@@ -47,7 +47,7 @@ In order to finance the big investment required, the company takes advantage of 
 ***
 ### Managers
 * ONET-SOC code and title: **1-9111.00 - Medical and Health Services Managers**
-* 5 most important tasks they carry out (provide the importance score, in Details):
+* 5 most important tasks they carry out:
 
 1. Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. Importance:85
 
@@ -113,7 +113,7 @@ In order to finance the big investment required, the company takes advantage of 
 
 * Is this job cognitive? Your judgment (0-10): 10 - They need to have biological, technological, physics... knowledge. Many fields have to be controlled by the bioegnineers, in order to adapt to each individuals needs. 
 
-* 5 most important skills they require to possess (provide the importance score, in Details):
+* 5 most important skills they require to possess:
 
 **1. Critical Thinking** — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance: 81
 
@@ -146,6 +146,7 @@ In order to finance the big investment required, the company takes advantage of 
  7% of respondents:	Doctoral degree
  
 * Wages: Median wages (2019)	$43.95 hourly, $91,410 annual
+
 * Top industry: (2019)	
 
  Manufacturing (43% employed in this sector)
@@ -198,8 +199,11 @@ In order to finance the big investment required, the company takes advantage of 
 
 * Top industry:
  Wholesale Trade (28% employed in this sector)
+ 
  Health Care and Social Assistance (23%)
+ 
  Other Services (Except Public Administration) (16%)
+ 
 ***
 
 ## Task 3
