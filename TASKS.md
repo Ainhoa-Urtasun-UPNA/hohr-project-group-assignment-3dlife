@@ -207,7 +207,11 @@ In order to finance the big investment required, the company takes advantage of 
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
-We There are expected to be 1 managers, 1 engineers and 0 operators in the future ( a year from now). Taking into account that for the computations we are 4 managers and for the final results we have taken the integer numbers.
+One of the main tasks of HR is to forecast the number of available of workers in the furuew so that 3Dlife is able to make better hiring decisions. For this prediction we have used matrix multiplication.M is a square matrix of order 3 x 3. In m11=5 we have the number of managers who remain in the same occupation after one year, m22=10 indicates the number of engineers who remain in the same occupation after one year and m33 = 45 the number of operators who have remained in the same position after one year time. In this same M matrix, for instance we have m31 = 5 the number of managers that moved to operators.
+
+D represents a diagonal matrix 3 x 3 with the number of workers in a similar company last year; b is a column vector of three rows, it indicates the number of workers at the present moment. As the company has just developped we are just  we are 4 managers . 
+There are expected to be 1 managers, 0 engineers and 1 operators in the future (a year from now). Taking into account that for the computations we are 4 managers and for the final results we have taken the integer numbers.
+
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
