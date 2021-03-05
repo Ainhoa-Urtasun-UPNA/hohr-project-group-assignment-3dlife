@@ -10,6 +10,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 Description: This U.S. industry comprises establishments primarily engaged in manufacturing medical, surgical, ophthalmic, and veterinary instruments and apparatus (except electrotherapeutic, electromedical and irradiation apparatus). Examples of products made by these establishments are syringes, hypodermic needles, anesthesia apparatus, blood transfusion equipment, catheters, surgical clamps, and medical thermometers.
 
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+
 **3DLife Bioprinting, Inc.**
  **Top 3 businesses:**
  
@@ -25,13 +26,13 @@ Total employees of the top 3 businesses = 77,500
 * 339112	- Surgical and Medical Instrument Manufacturing =	5,737
 * List of your company's primary activities divided into engineering activities and operational activities:
 
-Our primary activities are related directly to the creation of the multilayered objects such as tissues and organs from soft biomaterials like living cells and biomimetic synthetic polymers, using the latest technological advancement in the field. Primary activities are divided into engineering activites and operations activities. 
+Our primary activities are related directly to the creation of the multilayered objects such as tissues and organs from soft biomaterials like living cells and biomimetic synthetic polymers, using the latest technological advances in the field. Primary activities are divided into engineering activites and operations activities. 
                  
-3Dlife's research engineers mainly work theoretically and analytically, they carry out experiments before the implementation, for instance, bioprinting a heart the size of a cherry, with cells, blood vessels, ventricles and chambers, which is developed from the patient's own fat tissue.  They will carry out studies, and prototypes, for example, using only a human cornea they can print 50 artificial ones, thanks to 3D technology. This is a big advancement in ophthalmology.                                 One important activity of the engineers is using computer-aided design (CAD) to design and map the organs which are done layer by layer.
+3Dlife's research engineers mainly work theoretically and analytically, they carry out experiments before the implementation, for instance, bioprinting a heart the size of a cherry, with cells, blood vessels, ventricles and chambers, which is developed from the patient's own fat tissue.  They will carry out studies, and prototypes, for example, using only a human cornea they can print 50 artificial ones, thanks to 3D technology. This is a big advance in ophthalmology. One important activity of the engineers is using computer-aided design (CAD) to design and map the organs which are done layer by layer.
 
 Operational activities performed by 3Dlife's operators consist on obtaining and handling materials such as bioprinting skin, whose market is growing fast. In order to print an organ, cells of the specific organ are needed, these cells are called bioink. Operators make sure that this material is on the machine. Operators also set up the tools and machines needed for the printer, such as a print head mount, elevator, platform, sensors... 3Dlife operators carry out the production of the organs, and lastly they perform a very strict quality control to assure the highest performance of the organs created. 
 
-* List of your company's support activities:
+** List of your company's support activities:**
 ***
 Support activities are responsible for planning and oversight of primary activities. These support activities include general management, human resource management, and finance.
 
