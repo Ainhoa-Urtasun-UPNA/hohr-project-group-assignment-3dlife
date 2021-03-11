@@ -223,6 +223,11 @@ There are expected to be 1 managers, 0 engineers and 1 operators in the future (
 Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in one year from now for each of its 3 occupations if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators. 
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
+
+The forecast for the firms demand for workers
+
+We have predicted that the need for workers would be 4 managers, 12 engineers and 7 operators in a year from now. This corresponds to the firm 3Dlife demand for workers. 
+In order to detect mismatches we will compare the predicted available workers with the predicted need workers. 
 ***
 
 ## Task 5
