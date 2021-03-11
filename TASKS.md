@@ -224,7 +224,10 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
-The forecast for the firms demand for workers
+The forecast for the firms demand for workers has been computed by applying OLS regression to available data in which y is a column vector of dimension 9 that contents historical data on demand for workers in each of the 3 occupations in 2 different years.
+X is a 9x4 matrix that contains historical data on the labor market indicator in each of the 3 occupations and in 2 different years.
+In order to estimate the beta and the dummy variables we have used python. We have done the inverse of the transpose of X times X and all this multiplied by the transpose of X and times y.
+Second, we needed to make predictions on 3D life´s demand for workers. For this, we have plugged the estimated coefficients into the linear model. More precisely, we have multiplied the estimated unemployment rates by the estiamted betas and dummy variables that we have previously obtained.
 
 We have predicted that the need for workers would be 4 managers, 12 engineers and 7 operators in a year from now. This corresponds to the firm 3Dlife demand for workers. 
 
