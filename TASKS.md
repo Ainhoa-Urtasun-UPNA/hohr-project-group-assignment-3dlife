@@ -229,7 +229,9 @@ The forecast for the firms demand for workers
 We have predicted that the need for workers would be 4 managers, 12 engineers and 7 operators in a year from now. This corresponds to the firm 3Dlife demand for workers. 
 
 In order to detect mismatches we will compare the predicted available workers with the predicted need workers. 
-The number of available workers in the future forecasted was 1 manager, 0 engineers and 1 operator. With our last calculation, we have come to the conclusion that we will need 4 managers, 12 engineers and 7 operators. Therefore, by computing the difference we can predict a shortage for all the occupations. For managers 3 (4-1), for engineers 12 (12-0) and for operators 6 (7-1).  This means that we will have to take an upsizing strategy to prevent this shortage, in which availability is smaller than demand. For this we will hire more workers, more precisely 3 managers, 12 engineers and 6 operators. Another strategy we could take is to increase the workweek. This would imply increasing the working days our current workers spend during one week. Another option could be to increase overtime, which means increasing the amount of time a person works beyond normal working hours. 
+The number of available workers in the future forecasted was 1 manager, 0 engineers and 1 operator. With our last calculation, we have come to the conclusion that we will need 4 managers, 12 engineers and 7 operators. Therefore, by computing the difference we can predict a shortage for all the occupations. For managers 3 (4-1), for engineers 12 (12-0) and for operators 6 (7-1).  
+
+This means that we will have to take an upsizing strategy to prevent this shortage, in which availability is smaller than demand. For this we will hire more workers, more precisely 3 managers, 12 engineers and 6 operators. Another strategy we could take is to increase the workweek. This would imply increasing the working days our current workers spend during one week. Another option could be to increase overtime, which means increasing the amount of time a person works beyond normal working hours. 
 ***
 
 ## Task 5
