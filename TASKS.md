@@ -223,7 +223,7 @@ There are expected to be 1 managers, 0 engineers and 1 operators in the future (
 Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in one year from now for each of its 3 occupations if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators. 
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
-
+***
 The forecast for the firms demand for workers has been computed by applying OLS regression to available data in which y is a column vector of dimension 9 that contents historical data on demand for workers in each of the 3 occupations in 2 different years.
 X is a 9x4 matrix that contains historical data on the labor market indicator in each of the 3 occupations and in 2 different years.
 In order to estimate the beta and the dummy variables we have used python. We have done the inverse of the transpose of X times X and all this multiplied by the transpose of X and times y.
