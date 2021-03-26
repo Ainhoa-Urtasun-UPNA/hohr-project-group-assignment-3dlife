@@ -400,24 +400,35 @@ Salary: Annual salary of $91,410.
 
 **Required credentials and years of experience**
 -High school graduate or vocational certification in electronics, biomedical equipment servicing/engineering, or equivalent combination of education and experience in the electronics industry.
+
 -Experience with biomedical equipment or administrative backgrounds in a healthcare/medical setting preferred.
+
 -Knowledge of computers and networking;
+
 -Ability to understand and apply electronic, mechanical, and networking theory to install, diagnose, and repair equipment, including knowledge and use of all necessary tools and test equipment.
+
 -Ability to understand and utilize technical vocabulary to perform tasks according to either verbal or written instructions.
+
 -Ability to display strong organizational and multi-tasking skills, self-discipline, and autonomy to work independently in a high-pressure environment.
+
 -Ability to adapt to changing work requirements in a complex, fast-paced environment.
+
 -Ability to effectively operate in a team-driven environment to achieve assigned goals and objectives.
+
 -Ability to communicate, written and verbally, with various levels of employees and customers.
 
 **Job type (full-time, part-time)**
-Full time. 8 hours a day, 5 days a week. 
+Full time. 40 hours a week. 
 
 
 **Location**: Even if the Covid pandemic shifts many works to be made at home, this job may find many difficulties. Medical equipment operators need to dispose of 3D printers, to carry out the production of the organs and perform strict quality controls. Therefore, most of the time they will be working in the 3D enterprise located in Landaben polygon, Pamplona.
 
 **Salary, benefits and perks**
 Median salary per year $49,280.
-Benefits: Private life health insurance.
+
+Benefits: Paid holidays and vacations, health insurance, and retirement plans.
+
+Read more: Biomedical Equipment Technician Job Description, Career as a Biomedical Equipment Technician, Salary, Employment - Definition and Nature of the Work, Education and Training Requirements, Getting the Job - StateUniversity.com https://careers.stateuniversity.com/pages/443/Biomedical-Equipment-Technician.html#ixzz6qCp2TWOf
 
 ## Task 6
 * Objective: Create a website for your project
