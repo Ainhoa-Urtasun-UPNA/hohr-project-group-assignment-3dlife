@@ -301,21 +301,54 @@ Remote
 **Salary, benefits and perks**
 
 ### Job posting for Engineers:
-**Job title**
+
+**Job title** 
+Remote Biomedical Engineers
 
 **Occupation (SOC label and code)**
+17-2031.00. Bioengineers and Biomedical Engineers
 
-**Industry (NAICS title and code)**
+**Industry (NAICS title and code)** 
+541330. Engineering services
 
 **List of tasks List of skills**
 
+-Tasks
+1. Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals. 
+
+2. Adapt or design computer hardware or software for medical science uses. 
+
+3. Evaluate the safety, efficiency, and effectiveness of biomedical equipment. 
+
+4. Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.
+
+5. Research new materials to be used for products, such as implanted artificial organs.
+
+-Skills
+1. Critical Thinking. Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. 
+
+2. Active Listening. Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+
+3. Complex Problem Solving. Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. 
+
+4. Judgment and Decision Making. Considering the relative costs and benefits of potential actions to choose the most appropriate one. 
+
+5. Reading Comprehension. Understanding written sentences and paragraphs in work related documents.
+
+
 **Required credentials and years of experience**
+0-4 years of experience. Phd degree in mechanical engineering or similar.
+Experience operating with biomedical 3D-printers.
+Ability to obtain and maintain an HHS Public Trust.
+Previous successful experience working in remote environment.
 
 **Job type (full-time, part-time)**
-
+Full-time
 **Location**
-
+Remote
 **Salary, benefits and perks**
+Competitive compensation, and strong benefits including medical insurance, paid time off, flexible spending accounts, disability coverage and other benefits that help provide financial protection for you and your family.
+Salary: Annual salary of $91,410.
 
 ### Job posting for Operators:
 
