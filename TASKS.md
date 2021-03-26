@@ -395,13 +395,14 @@ Salary: Annual salary of $91,410.
 
 2. Repairing — Repairing machines or systems using the needed tools.
 
-3.Troubleshooting — Determining causes of operating errors and deciding what to do about it.
+3. Troubleshooting — Determining causes of operating errors and deciding what to do about it.
 
-4.Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. 
+4. Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. 
 
 5. Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. 
 
 **Required credentials and years of experience**
+
 -High school graduate or vocational certification in electronics, biomedical equipment servicing/engineering, or equivalent combination of education and experience in the electronics industry.
 
 -Experience with biomedical equipment or administrative backgrounds in a healthcare/medical setting preferred.
@@ -431,7 +432,6 @@ Median salary per year $49,280.
 
 Benefits: Paid holidays and vacations, health insurance, and retirement plans.
 
-Read more: Biomedical Equipment Technician Job Description, Career as a Biomedical Equipment Technician, Salary, Employment - Definition and Nature of the Work, Education and Training Requirements, Getting the Job - StateUniversity.com https://careers.stateuniversity.com/pages/443/Biomedical-Equipment-Technician.html#ixzz6qCp2TWOf
 
 ## Task 6
 * Objective: Create a website for your project
