@@ -300,7 +300,7 @@ Experience in project development is required.
 
 **Job type (full-time, part-time)**
 
-Full-time
+Full-time. 40 Hours a week
 
 **Location**
 
