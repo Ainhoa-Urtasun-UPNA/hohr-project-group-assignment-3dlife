@@ -308,7 +308,7 @@ Remote
 
 **Salary, benefits and perks**
 
-Aproximately $115,160 per year
+Aproximately $115,160 per year. The benefits provided are access to private health insurance and life insurance, paid time off, retirement planning and student loan assistance. 
 
 ### Job posting for Engineers:
 
