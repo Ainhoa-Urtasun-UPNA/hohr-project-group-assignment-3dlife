@@ -338,8 +338,11 @@ Remote Biomedical Engineers
 
 **Required credentials and years of experience**
 0-4 years of experience. Phd degree in mechanical engineering or similar.
+
 Experience operating with biomedical 3D-printers.
+
 Ability to obtain and maintain an HHS Public Trust.
+
 Previous successful experience working in remote environment.
 
 **Job type (full-time, part-time)**
@@ -347,10 +350,12 @@ Previous successful experience working in remote environment.
 Full-time. 40 weekly hours
 
 **Location**
+
 Remote
 
 **Salary, benefits and perks**
 Competitive compensation, and strong benefits including medical insurance, paid time off, flexible spending accounts, disability coverage and other benefits that help provide financial protection for you and your family.
+
 Salary: Annual salary of $91,410.
 
 ### Job posting for Operators:
