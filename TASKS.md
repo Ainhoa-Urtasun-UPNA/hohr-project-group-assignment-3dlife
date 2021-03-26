@@ -239,21 +239,64 @@ This means that we will have to take an upsizing strategy to prevent this shorta
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
+
+According to our predictions we were going to have a job shortage in the future. According to our forecasts 3Dlife will need  3 managers, 12 engineers and 6 operators in the future. More job vacancies for 
+automation risk 
+
 ***
 ### Job posting for Managers:
 **Job title**
+Medical and health service manager 
 
 **Occupation (SOC label and code)**
+1-9111.00- Medical and health service manager 
 
 **Industry (NAICS title and code)**
 
 **List of tasks List of skills**
+-Tasks: 
+
+ 1.Develop and maintain computerized record management systems to store and process data, such as personnel activities and information, and to produce reports. 
+
+2. Direct, supervise and evaluate work activities of medical, nursing, technical, clerical, service, maintenance, and other personnel. 
+
+3. Direct or conduct recruitment, hiring, and training of personnel. 
+
+4. Develop and implement organizational policies and procedures for the facility or medical unit. 
+
+5. Conduct and administer fiscal operations, including accounting, planning budgets, authorizing expenditures, establishing rates for services, and coordinating financial reporting. 
+
+-Skills: 
+
+ 1. **Speaking** — Talking to others to convey information effectively. Importance: 78
+ 
+ 2. **Critical Thinking** — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Importance:75
+
+3. **Active Listening** — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.Importance:75  	
+
+4. **Coordination** — Adjusting actions in relation to others' actions. Importance: 75
+
+5. **Judgment and Decision Making** — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Importance:75
+
+Technology skills:
+
+1.**Analytical or scientific software** — Expert Health Data Programming Vitalnet; IBM SPSS Statistics; Relative Values for Physicians
+ 
+2.**Business intelligence and data analysis software** — IBM Cognos Impromptu  Oracle Business Intelligence Enterprise Edition
+
+3.**Calendar and scheduling software** — AcuStaf; API Healthcare ActiveStaffer; e-MDs ScheduleSee
+
+4.**Categorization or classification software** — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro
+
+5.**Data base user interface and query software** — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
+* Education:  
 
 **Required credentials and years of experience**
 
 **Job type (full-time, part-time)**
 
 **Location**
+Remote
 
 **Salary, benefits and perks**
 
