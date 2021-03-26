@@ -241,9 +241,34 @@ This means that we will have to take an upsizing strategy to prevent this shorta
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+**Job title**
+**Occupation (SOC label and code)**
+**Industry (NAICS title and code)**
+**List of tasks List of skills**
+**Required credentials and years of experience**
+**Job type (full-time, part-time)**
+**Location**
+**Salary, benefits and perks**
+
 ### Job posting for Engineers:
+**Job title**
+**Occupation (SOC label and code)**
+**Industry (NAICS title and code)**
+**List of tasks List of skills**
+**Required credentials and years of experience**
+**Job type (full-time, part-time)**
+**Location**
+**Salary, benefits and perks**
+
 ### Job posting for Operators:
-***
+**Job title**
+**Occupation (SOC label and code)**
+**Industry (NAICS title and code)**
+**List of tasks List of skills**
+**Required credentials and years of experience**
+**Job type (full-time, part-time)**
+**Location**
+**Salary, benefits and perks**
 
 ## Task 6
 * Objective: Create a website for your project
