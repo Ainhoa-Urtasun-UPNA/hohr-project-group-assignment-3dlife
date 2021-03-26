@@ -276,21 +276,54 @@ This means that we will have to take an upsizing strategy to prevent this shorta
 
 ### Job posting for Operators:
 
-**Job title**
+**Job title**: Medical Equipment technician
 
-**Occupation (SOC label and code)**
+**Occupation (SOC label and code)**: 49-9062.00 - Medical Equipment Repairers
 
-**Industry (NAICS title and code)**
+**Industry (NAICS title and code)**: 339112 Surgical and Medical Instrument Manufacturing
 
-**List of tasks List of skills**
+-List of tasks:
+1. Inspect and test malfunctioning medical or related equipment, following manufacturers' specifications and using test and analysis instruments.
+
+2. Test or calibrate components or equipment, following manufacturers' manuals and troubleshooting techniques, using hand tools, power tools, or measuring devices.
+
+3. Keep records of maintenance, repair, and required updates of equipment. 
+
+4. Perform preventive maintenance or service, such as cleaning, lubricating, or adjusting equipment. 
+
+5. Test, evaluate, and classify excess or in-use medical equipment and determine serviceability, condition, and disposition, in accordance with regulations.
+
+-List of skills:
+1. Equipment Maintenance — Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.  	
+
+2. Repairing — Repairing machines or systems using the needed tools.
+
+3.Troubleshooting — Determining causes of operating errors and deciding what to do about it.
+
+4.Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly. 
+
+5. Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. 
 
 **Required credentials and years of experience**
+-High school graduate or vocational certification in electronics, biomedical equipment servicing/engineering, or equivalent combination of education and experience in the electronics industry.
+-Experience with biomedical equipment or administrative backgrounds in a healthcare/medical setting preferred.
+-Knowledge of computers and networking;
+-Ability to understand and apply electronic, mechanical, and networking theory to install, diagnose, and repair equipment, including knowledge and use of all necessary tools and test equipment.
+-Ability to understand and utilize technical vocabulary to perform tasks according to either verbal or written instructions.
+-Ability to display strong organizational and multi-tasking skills, self-discipline, and autonomy to work independently in a high-pressure environment.
+-Ability to adapt to changing work requirements in a complex, fast-paced environment.
+-Ability to effectively operate in a team-driven environment to achieve assigned goals and objectives.
+-Ability to communicate, written and verbally, with various levels of employees and customers.
 
 **Job type (full-time, part-time)**
+Full time. 8 hours a day, 5 days a week. 
 
-**Location**
+
+**Location**: Even if the Covid pandemic shifts many works to be made at home, this job may find many difficulties. Medical equipment operators need to dispose of 3D printers, to carry out the production of the organs and perform strict quality controls. Therefore, most of the time they will be working in the 3D enterprise located in Landaben polygon, Pamplona.
 
 **Salary, benefits and perks**
+Median salary per year $49,280.
+Benefits: Private life health insurance.
 
 ## Task 6
 * Objective: Create a website for your project
