@@ -246,7 +246,7 @@ automation risk
 ***
 ### Job posting for Managers:
 **Job title**
-Medical and health service manager 
+Medical Case Manager
 
 **Occupation (SOC label and code)**
 1-9111.00- Medical and health service manager 
@@ -289,16 +289,26 @@ Technology skills:
 4.**Categorization or classification software** — American Medical Association CodeManager; ColorSoft AutoMatch; Yost Engineering ABN Assistant; Yost Engineering CodeSearch Pro
 
 5.**Data base user interface and query software** — Data entry software,Dental Common Access System DENCAS; Microsoft Access, Structured query language SQL 
-* Education:  
 
 **Required credentials and years of experience**
+Bachelor’s degree in Businness Administration or economics is required. 
+The required experience is in a pevious manager position for at leat 2 or 3 years. 
+Experience in the health sector , experience with Medicaid recipients and community services is strongly preferred
+Prior Medical or Behavioral Health Management experience is also preferred.
+Experience in project development is required. 
+
 
 **Job type (full-time, part-time)**
 
+Full-time
+
 **Location**
+
 Remote
 
 **Salary, benefits and perks**
+
+Aproximately $115,160 per year
 
 ### Job posting for Engineers:
 **Job title**
