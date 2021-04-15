@@ -255,6 +255,7 @@ Medical Case Manager
 1-9111.00- Medical and health service manager 
 
 **Industry (NAICS title and code)**
+339112 Surgical and Medical Instrument Manufacturing
 
 **List of tasks List of skills**
 -Tasks: 
@@ -322,7 +323,7 @@ Remote Biomedical Engineers
 17-2031.00. Bioengineers and Biomedical Engineers
 
 **Industry (NAICS title and code)** 
-541330. Engineering services
+339112 Surgical and Medical Instrument Manufacturing
 
 **List of tasks List of skills**
 
