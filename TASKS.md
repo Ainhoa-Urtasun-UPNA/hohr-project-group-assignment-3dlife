@@ -241,9 +241,9 @@ This means that we will have to take an upsizing strategy to prevent this shorta
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 
 According to our predictions we were going to have a job shortage in the future. According to our forecasts 3Dlife will need  3 managers, 12 engineers and 6 operators in the future. However, in order to decide how many job vacancies to post, we will take other factors into account. Namely, automation risk associated to the job:
-- Managers: Risk of automation is low. It is because of this that we will post job vacancies for our total estimation, 3 managers.
-- Engineers: Risk of automation is low. Therefore, we will post job vacancies for our total estimation, 12 engineers.
-- Operators: Risk of automation is high. As a result, instead of posting job vacancies for 6 operators (as estimated), we will only do it for 4 operators.
+- Managers: Risk of automation is low, 1%. It is because of this that we will post job vacancies for our total estimation, 3 managers.
+- Engineers: Risk of automation is low, 4%. Therefore, we will post job vacancies for our total estimation, 12 engineers.
+- Operators: Risk of automation is medium, 40%. As a result, instead of posting job vacancies for 6 operators (as estimated), we will only do it for 4 operators.
 
 
 ***
