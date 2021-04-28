@@ -1,6 +1,5 @@
-### 3DLife
-![IMAGE JOB POSTINGS.pdf]
-You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-3dlife/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![4.png](4.png)
+
 
 
 3d like is primarily engaged in manufacturing medical, surgical and veterinary instruments such as anesthesia apparatus, blood transfusion equipment or medical thermometers
