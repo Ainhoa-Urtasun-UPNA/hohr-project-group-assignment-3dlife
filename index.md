@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-p
 
 
 3d like is primarily engaged in manufacturing medical, surgical and veterinary instruments such as anesthesia apparatus, blood transfusion equipment or medical thermometers
+![Azul Turquesa Blanco Corazón Vector Médico Folleto](https://user-images.githubusercontent.com/78586935/116437128-6972a000-a84d-11eb-98d7-57c669c65436.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
